@@ -1,0 +1,60 @@
+{
+    "data": {
+        "projects": [
+            {
+                "id": 0,
+                "name": "Flashcards",
+                "description": "An App To Stduy",
+                "technologies": ["JavaScript", "AJAX", "JQUERY", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Flashcards/",
+                "github_link": "https://github.com/eshaadhall/Flashcards",
+                "image_urls": ["/static/img/homepage.jpg","/static/img/question.jpg"]
+            },
+            {
+                "id": 1,
+                "name": "Tic-Tac-Toe",
+                "description": "An App To Play",
+                "technologies": ["JavaScript", "AJAX", "JQUERY", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Tic-Tac-Toe/",
+                "github_link": "https://github.com/eshaadhall/Tic-Tac-Toe",
+                "image_urls": ["/static/img/tic-tac-toe home.jpg","/static/img/tic-tac-toe page.jpg"]
+            },
+            {
+                "id": 2,
+                "name": "Awesome-Employee-Directory",
+                "description": "An app for a fictional company called Awesome Startup. This app would help employees to share contact information with each other.",
+                "technologies": ["JavaScript", "JSON", "Fetch API", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Public-API-Requests-Awesome-Employee-Directory/",
+                "github_link": "https://github.com/eshaadhall/Public-API-Requests-Awesome-Employee-Directory",
+                "image_urls": ["/static/img/awesome-dir-home.jpg","/static/img/awesome-dir-modal.jpg","/static/img/awesome-dir-search.jpg"]
+            },
+            {
+                "id": 3,
+                "name": "Interactive Form",
+                "description": "An interactive registration form for a fictional conference called FullStack Conference.",
+                "technologies": ["JavaScript", "JSON", "Fetch API", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Interactive-Form/",
+                "github_link": "https://github.com/eshaadhall/Interactive-Form",
+                "image_urls": ["/static/img/interactive-form-home.jpg","/static/img/interactive-form-filled.jpg"]
+            },
+            {
+                "id": 4,
+                "name": "Pagination-and-Filtering",
+                "description": "For a list of students, this project will add pagination so that only 10 students are listed at a time and users can click through to see them.",
+                "technologies": ["Unobtrusive JavaScript", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Pagination-and-Filtering/",
+                "github_link": "https://github.com/eshaadhall/Pagination-and-Filtering",
+                "image_urls": ["/static/img/pagination-home.jpg","/static/img/pagination-search.jpg"]
+            },
+            {
+                "id": 5,
+                "name": "Random Quote Generator",
+                "description": "An app that displays random famous quotes.",
+                "technologies": ["JavaScript", "HTML", "CSS"],
+                "live_link": "https://eshaadhall.github.io/Random-Quote-Generator/",
+                "github_link": "https://github.com/eshaadhall/Random-Quote-Generator",
+                "image_urls": ["/static/img/ramdom-quote-home.JPG","/static/img/ramdom-quote-next.JPG"]
+            }
+        ]
+      }
+}
