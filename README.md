@@ -8,5 +8,5 @@ Extra Credit:
 Page not found error page displays the error.message, error.status and error.stack in the error.pug file under views folder.
 
 Customized the style of the css of the home page and the error 404-not found page.
-
+Added a logo to the navbar.
 

@@ -506,6 +506,7 @@ textarea {
   display: none !important; }
 
 .grid-container {
+  position: relative;
   padding-right: 0.625rem;
   padding-left: 0.625rem;
   max-width: 75rem;
@@ -536,10 +537,12 @@ textarea {
       flex-flow: row wrap; }
 
 .cell {
+  position: relative;
   -ms-flex: 0 0 auto;
       flex: 0 0 auto;
   min-height: 0px;
   min-width: 0px;
+  height: auto;
   width: 100%; }
   .cell.auto {
     -ms-flex: 1 1 0px;

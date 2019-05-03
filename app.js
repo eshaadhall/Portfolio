@@ -13,7 +13,7 @@ app.use('/static',express.static('public'));
 
 app.get('/', (req,res)=>{
    // const pname = projects[0].name;
-   res.render('index.pug',{projects});
+   res.render('index',{projects});
 });
 
 app.get('/about', (req,res)=>{
@@ -45,4 +45,4 @@ app.use((err, req, res, next)=>{
   res.render('error');
 });
 // setup the server
-app.listen(3001, ()=>{console.log('app is running on port 3001')});
+app.listen(3000, ()=>{console.log('app is running on port 3000')});
