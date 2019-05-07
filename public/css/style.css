@@ -99,7 +99,7 @@ a:hover{
   text-align: center;
   color: white;
   font-weight: bold;
-  position: absolute;
+  position: relative;
   display: inline-block;
   top: 70%;
   left: 30%;
